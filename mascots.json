@@ -1,0 +1,53 @@
+[
+  
+        {
+            "name" : "Marimokkori",
+            "prefecture" : "Hokkaido",
+            "description" : "the name 'Marimokkori' is a portmanteau: marimo is the word for the green algae clusters that grow in some of Hokkaidō's lakes, while mokkori, literally 'bulge', is a Japanese slang term for an erection."
+        },
+        {
+            "name:" : "Ikube",
+            "prefecture" : "Aomori",
+            "description" : "He is a blue traveling fairy who fell in love with Aomori prefecture after wandering around Japan. Because of this love, he decided to live in Aomori (which means 'blue forest')"
+        },
+        {
+            "name" : "Wanko",
+            "prefecture" : "Iwate", 
+            "description" : "Inspired by a 'wanko soba' noodle, a famous local food in Iwate prefecture."
+        },
+        {
+            "name" : "Musubimaru", 
+            "prefecture" : "Miyagi",
+            "description" : "A rice ball samurai. Rice is famous produce in Miyagi and its armor design comes after the local hero'Masamune Date'"
+        },
+        {
+            "name": "Sugitchi",
+            "prefecture": "Akita",
+            "description": "An Akita cedar tree, retired in 2017 after 10 years of service"
+        },
+        {
+            "name": "Kizakura Sui",
+            "prefecture": "Akita",
+            "description": "A 16-year-old water goddess that is 158 centimeters tall and likes the Akita Komachi variety of rice, soft serve ice cream, and cats",
+            "official site": "https://kizakurasui.jp/"
+        },
+        {
+            "name": "Kitekeru-kun",
+            "prefecture": "Yamagata",
+            "description": "This mascot is overshadowed by Kumamons popularity."
+        },
+        {
+            "name" : "Kibitan",
+            "prefecture": "Fukushima",
+            "description": "Based on the local 'Kibitaki' bird (the narcissus flycatcher). He was originally created for a nineties athletics event and now represents hopeful renewal for Fukushima."
+        },
+        {
+            "name": "Hustle Komon",
+            "prefecture": "Ibaraki",
+            "description": "A character inspired by the long-running TV period drama, Mito Komon."
+        }
+        {
+            
+        }
+
+]
