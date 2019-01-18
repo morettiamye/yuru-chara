@@ -1,53 +1,87 @@
 [
   
         {
-            "name" : "Marimokkori",
-            "prefecture" : "Hokkaido",
-            "description" : "the name 'Marimokkori' is a portmanteau: marimo is the word for the green algae clusters that grow in some of Hokkaidō's lakes, while mokkori, literally 'bulge', is a Japanese slang term for an erection."
+            "name": "Marimokkori",
+            "japanese": "まりもっこり",
+            "mascot": "Hokkaido Prefecture",
+            "prefecture": "Hokkaido",
+            "description": "The name 'Marimokkori' is a portmanteau: marimo is the word for the green algae clusters that grow in some of Hokkaidō's lakes, while mokkori, literally 'bulge', is a Japanese slang term for an erection.",
+            "official site": "https://ameblo.jp/marimokkori2005/"
         },
         {
-            "name:" : "Ikube",
-            "prefecture" : "Aomori",
-            "description" : "He is a blue traveling fairy who fell in love with Aomori prefecture after wandering around Japan. Because of this love, he decided to live in Aomori (which means 'blue forest')"
+            "name:": "Ikube",
+            "mascot": "Aomori Prefecture",
+            "prefecture": "Aomori",
+            "description": "He is a blue traveling fairy who fell in love with Aomori prefecture after wandering around Japan. Because of this love, he decided to live in Aomori (which means 'blue forest')"
         },
         {
-            "name" : "Wanko",
-            "prefecture" : "Iwate", 
-            "description" : "Inspired by a 'wanko soba' noodle, a famous local food in Iwate prefecture."
+            "name": "Wanko",
+            "mascot": "Iwate Prefecture",
+            "prefecture": "Iwate", 
+            "description": "Inspired by a 'wanko soba' noodle, a famous local food in Iwate prefecture. Wanko consists of 5 brothers, each of them has a different motif and character."
         },
         {
-            "name" : "Musubimaru", 
-            "prefecture" : "Miyagi",
-            "description" : "A rice ball samurai. Rice is famous produce in Miyagi and its armor design comes after the local hero'Masamune Date'"
+            "name": "Musubimaru", 
+            "mascot": "Miyagi Prefecture",
+            "prefecture": "Miyagi",
+            "description": "A rice ball samurai. Rice is famous produce in Miyagi and its armor design comes after the local hero'Masamune Date'"
         },
         {
             "name": "Sugitchi",
+            "mascot": "Sugitchi",
             "prefecture": "Akita",
             "description": "An Akita cedar tree, retired in 2017 after 10 years of service"
         },
         {
             "name": "Kizakura Sui",
+            "japanese": "黄桜すいプロジェクト",
+            "mascot": "Akita Prefecture",
             "prefecture": "Akita",
             "description": "A 16-year-old water goddess that is 158 centimeters tall and likes the Akita Komachi variety of rice, soft serve ice cream, and cats",
             "official site": "https://kizakurasui.jp/"
         },
         {
             "name": "Kitekeru-kun",
+            "mascot": "Yamagata Prefecture",
             "prefecture": "Yamagata",
             "description": "This mascot is overshadowed by Kumamons popularity."
         },
         {
             "name" : "Kibitan",
+            "mascot": "Fukushima Prefecture",
             "prefecture": "Fukushima",
             "description": "Based on the local 'Kibitaki' bird (the narcissus flycatcher). He was originally created for a nineties athletics event and now represents hopeful renewal for Fukushima."
         },
         {
             "name": "Hustle Komon",
+            "mascot": "Ibaraki Prefecture",
             "prefecture": "Ibaraki",
             "description": "A character inspired by the long-running TV period drama, Mito Komon."
         }
         {
-            
+            "name": "Tochimarukun",
+            "japanese": "とちまるくん",
+            "mascot": "Tochigi Prefecture",
+            "prefecture": "Tochigi",
+            "description": "A little hard worker",
+            "official site": "http://tochimarukun.jp/"
+
+        },
+        {
+            "name": "Gunma-chan",
+            "japanese": "ぐんまちゃんの",
+            "mascot": "Gunma Prefecture",
+            "prefecture": "Gunma",
+            "description": "A cute pony from Gunma prefecture",
+            "official site": "http://www.gunmachan-navi.pref.gunma.jp/"
+        },
+        {
+            "name": "Kobaton",
+            "japanese": "コバトン",
+            "mascot": "Saitama Prefecture",
+            "prefecture": "Saitama",
+            "description": "The mascot of Saitama prefecture, Kobaton is a Eurasian collared dove, which is also the prefectural bird. Kobaton was made originally as the mascot of the fifty-ninth annual national athletic meeting held in the prefecture in 2004, and was inaugurated as mascot of the prefecture in 2005 with an inauguration ceremony and a letter of appointment from the governor. A wheelchair-using version of Kobaton also exists.", 
+            "official site": "http://www.kobatonya.com/"
         }
 
 ]
