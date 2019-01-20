@@ -82,6 +82,68 @@
             "prefecture": "Saitama",
             "description": "The mascot of Saitama prefecture, Kobaton is a Eurasian collared dove, which is also the prefectural bird. Kobaton was made originally as the mascot of the fifty-ninth annual national athletic meeting held in the prefecture in 2004, and was inaugurated as mascot of the prefecture in 2005 with an inauguration ceremony and a letter of appointment from the governor. A wheelchair-using version of Kobaton also exists.", 
             "official site": "http://www.kobatonya.com/"
+        },
+        {
+            "name": "Chiba-kun",
+            "mascot": "Chiba Prefecture",
+            "description": "A mysterious red animal from Chiba Prefecture whose shape comes from the geography of the prefecture"
+        },
+        {
+            "name": "Reruhi-San",
+            "japanese": "レルヒさん",
+            "mascot": "Niigata Prefecture",
+            "prefecture": "Niigata",
+            "description": "TThe 270cm-tall skiing mascot based on Theodor Von-Lerch, an Austro-Hungarian major who brought the skiing to Japan"
+        },
+        {
+            "name": "Kitokito-kun",
+            "mascot": "Toyama Prefecture",
+            "prefecture": "Toyama"
+        },
+        {
+            "name": "Hyakumansan",
+            "japanese": "百万さん",
+            "mascot": "Ishikawa Prefecture",
+            "prefecture": "Ishikawa",
+            "description": "'Mr. One Million', generally unpopular because he is considered to be ugly"
+        },
+        {
+            "name": "Sautan",
+            "japanese": "サウタン",
+            "mascot": "Fukui Prefecture",
+            "prefecture": "Fukui",
+            "description": "A dinosaur, meant to represent the many dinosaur fossils found in Fukui"
+        },
+        {
+            "name": "Hishimaru Takeda",
+            "japanese": "菱丸",
+            "mascot": "Yamanashi Prefecture",
+            "prefecture": "Yamanashi",
+            "description": "A member of the Takeda clan",
+            "official site": "https://www.facebook.com/takeda.hishimaru/"
+        },
+        {
+            "name": "Arukuma",
+            "mascot": "Nagano Prefecture",
+            "prefecture": "Nagano",
+            "description": "A walking bear with an Nagano apple hat"
+        },
+        {
+            "name": "Minamo",
+            "japanese": "ミナモ",
+            "mascot": "Gifu Prefecture",
+            "prefecture": "Gifu",
+            "description": "A smiling sprite"
+        },
+        {
+            "name": "Fujippi",
+            "japanese": "ふじっぴー",
+            "mascot": "Shizuoka Prefecture",
+            "prefecture": "Shizuoka",
+            "description": "If Mt Fuji was a person",
+            "official site": "http://www.pref.shizuoka.jp/kikaku/ki-110/fujippi/index.html"
+        },
+        {
+            
         }
-
 ]
