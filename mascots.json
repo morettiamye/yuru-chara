@@ -360,6 +360,30 @@
             "official site": "http://www.pref.shizuoka.jp/kikaku/ki-110/fujippi/index.html"
         },
         {
-
+            "name": "Kappasalamander",
+            "prefecture": "Osaka",
+            "description": "A hybrid of a kappa and an axolotl",
+            "picture" : "/kappasalamander"
+        },
+        {
+            "name": "Mametan",
+            "mascot": "Agriculture Mascot for Gifu",
+            "prefecture": "Gifu",
+            "description": "A walking bean pod",
+            "picture" : "/mametan"
+        },
+        {
+            "name": "Haropon",
+            "mascot": "Halloween Festival in Niigata",
+            "prefecture": "Niigata",
+            "description": "A racoon dog witch",
+            "picture" : "/haropon"
+        },
+        {
+            "name": "Omozo",
+            "mascot": "JRT, Shikoku Broadcasting",
+            "prefecture": "Shikoku",
+            "description": "A square elephant",
+            "picture" : "/omozo"
         }
 ]
