@@ -373,7 +373,7 @@
             "mascot": "Gifu Prefecture",
             "prefecture": "Gifu",
             "description": "A smiling sprite",
-            "picture": "minamo"
+            "picture": "/minamo"
         },
         {
             "name": "Fujippi",
@@ -381,7 +381,8 @@
             "mascot": "Shizuoka Prefecture",
             "prefecture": "Shizuoka",
             "description": "If Mt Fuji was a person",
-            "official site": "http://www.pref.shizuoka.jp/kikaku/ki-110/fujippi/index.html"
+            "official site": "http://www.pref.shizuoka.jp/kikaku/ki-110/fujippi/index.html",
+            "picture": "/fujippi"
         },
         {
             "name": "Kappasalamander",
@@ -398,7 +399,7 @@
         },
         {
             "name": "Haropon",
-            "mascot": "Halloween Festival in Niigata",
+            "mascot": "Niitsu Halloween Festival in Niigata",
             "prefecture": "Niigata",
             "description": "A racoon dog witch",
             "picture" : "/haropon"
@@ -408,6 +409,58 @@
             "mascot": "JRT, Shikoku Broadcasting",
             "prefecture": "Shikoku",
             "description": "A square elephant",
+            "official site": "http://www.jrt.co.jp/",
             "picture" : "/omozo"
+        },
+        {
+            "name": "Ringori-kun",
+            "mascot": "Apple Moving Company",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "A mix of a baby gorilla and an apple",
+            "official site": "https://www.apple-hikkoshi.co.jp/",
+            "picture": "/ringori-kun"
+        },
+        {
+            "name": "Bun-chan",
+            "mascot": "Hokkaido Shimbun Newspaper",
+            "prefecture": "Sapporo",
+            "city": "Sapporo",
+            "description": "A monkey with a newspaper hat",
+            "official site": "https://www.hokkaido-np.co.jp/",
+            "picture": "/bun-chan"
+        },
+        {
+            "name": "Bun-chan",
+            "mascot": "Bunkaru, a PR website run by Japan's Agency for Cultural Affairs",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "A rosy cheeked mascot",
+            "official site": "http://www.bunka.go.jp/prmagazine/english/",
+            "picture": "/bun-chan-2"
+        },
+        {
+            "name": "Haniwa Kacho / Haniwa Bucho",
+            "mascot": "Sakai City",
+            "prefecture": "Osaka",
+            "city": "Sakai",
+            "description": "An office manager with the head of an ancient clay figure",
+            "picture": "/haniwa-kacho"
+        },
+        {
+            "name": "Swatch",
+            "mascot": "Suwayama Park Zoo",
+            "prefecture": "Hyogo",
+            "city": "Kobe",
+            "description": "A patchwork elephant that is a reincarnation of Suwako, an elephant that once lived in the zoo",
+            "picture": "/swatch"
+        },
+        {
+            "name": "Kuroneko Shironeko",
+            "mascot": "Yamato Transport Company",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "A black cat and white cat serve as mascots for Yamato Transport Company.  These cats are represented in various illustrations including the famous Kuroneko logo of a mom cat carrying a baby cat.",
+            "picture": "/kuroneko"
         }
 ]
