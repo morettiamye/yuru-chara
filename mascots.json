@@ -189,12 +189,12 @@
             "picture": "/kibicchi"
         },
         {
-          "name": "Kiyotchi",
-          "mascot": "Kiyota Ward",
-          "prefecture": "Hokkaido",
-          "city": "Sapporo",
-          "description": "His abstract art hat is the local logo, a K for Kiyota.",
-          "picture": "/kiyotchi"  
+            "name": "Kiyotchi",
+            "mascot": "Kiyota Ward",
+            "prefecture": "Hokkaido",
+            "city": "Sapporo",
+            "description": "His abstract art hat is the local logo, a K for Kiyota.",
+            "picture": "/kiyotchi"  
         },
         {
             "name": "Kappon",
@@ -462,5 +462,57 @@
             "city": "Tokyo",
             "description": "A black cat and white cat serve as mascots for Yamato Transport Company.  These cats are represented in various illustrations including the famous Kuroneko logo of a mom cat carrying a baby cat.",
             "picture": "/kuroneko"
+        },
+        {
+            "name": "Paiko-chan",
+            "mascot": "Oppai Ramen Snack Bar",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "A terrifyingly sexual pink bird",
+            "picture": "/paiko-chan"
+        },
+        {
+            "name": "Pay-kun",
+            "mascot": "Payment Navi",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "A credit card weilding squirrel, he serves as the mascot for Payment Navi, a Japanese credit card information site",
+            "official site": "https://paymentnavi.com/",
+            "picture": "/pay-kun"
+        },
+        {
+            "name": "Hanako",
+            "mascot": "Hazuko Medical Corporation",
+            "prefecture": "Osaka",
+            "city": "Osaka",
+            "description": "A white elephant nurse",
+            "official site": "http://www.hakuzo.co.jp/",
+            "picture": "/hanako"
+        },
+        {
+            "name": "Zombear",
+            "prefecture": "Hokkaido",
+            "city": "Otaru",
+            "description": "He’s a big stuffed teddy bear who has been wandering the streets of Hokkaido for 70 years looking for the boy that owns him. He’s got a very bad sense of direction, but is lucky nonetheless.",
+            "official site": "http://zombear.net/",
+            "picture": "/zombear"
+        },
+        {
+            "name": "Ponta",
+            "mascot": "Ponta Points rewards program",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "A racoon dog, the official mascot for the Ponta Points program through Lawson",
+            "official site": "https://point.recruit.co.jp/point/",
+            "picture": "/ponta"
+        },
+        {
+            "name": "Nanaco",
+            "mascot": "Nanaco rewards program",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "A giraffe, the official mascot for the Nanaco rewards program and payment service through 7-Eleven",
+            "official site": "https://www.nanaco-net.jp/",
+            "picture": "/nanaco"
         }
 ]
