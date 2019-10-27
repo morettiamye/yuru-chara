@@ -514,5 +514,107 @@
             "description": "A giraffe, the official mascot for the Nanaco rewards program and payment service through 7-Eleven",
             "official site": "https://www.nanaco-net.jp/",
             "picture": "/nanaco"
+        },
+        {
+            "name": "Asaga-Ossan",
+            "mascot": "The Hakusan City Business District",
+            "prefecture": "Ishikawa",
+            "city": "Hakusan",
+            "description": "An old man who loves booze and has a morning glory flower for a head.",
+            "picture": "/asaga-ossan"
+        },
+        {
+            "name": "Dennyas",
+            "mascot": "Dennys Restaurant",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "Three cats that represent Dennys",
+            "official site": "https://www.dennys.jp/entertainment/dennyas/",
+            "picture": "/dennyas"
+        },
+        {
+            "name": "Shugar",
+            "mascot": "Shuf-Chef Website",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "A cross between a polar bear and a sugar cube.",
+            "official site": "https://shuf-chef.com/",
+            "picture": "/shugar"
+        },
+        {
+            "name": "Rippy",
+            "mascot": "Kawagoe City",
+            "prefecture": "Saitama",
+            "city": "Kawagoe",
+            "description": "A rabbit often mistaken for a hamster",
+            "picture": "/rippy"
+        },
+        {
+            "name": "Psychedelhi-san",
+            "mascot": "Kouenji District in Tokyo",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "A mildly racist Indian psychidelic mushroom.  Chosen in a contest that included over 890 designs, it is truly unknown to us why this one was picked.",
+            "official site": "https://koenjieco.com/en/2018/08/27/psyche_delhi-san/",
+            "picture": "/psychedelhi-san"
+        },
+        {
+            "name": "Tomato Ninjen",
+            "mascot": "Kouenji District in Tokyo",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "A weird tomato, also the mascot of Kouenji.  Usually appears with Psychedelhi-san",
+            "picture": "/tomato-ninjen"
+        },
+        {
+            "name": "Kawacchi",
+            "mascot": "Kawaguchi City",
+            "prefecture": "Saitama",
+            "city": "Kawaguchi City",
+            "description": "A philosophical kappa",
+            "official site": "https://twitter.com/kawacchi_kawa",
+            "picture": "/kawacchi"
+        },
+        {
+            "name": "Sunna-chan",
+            "mascot": "Onna Village",
+            "prefecture": "Okinawa",
+            "city": "Onna",
+            "description": "A smiling coral fairy",
+            "picture": "/sunna-chan"
+        },
+        {
+            "name": "Takausagi",
+            "mascot": "Takasaki City",
+            "prefecture": "Gunma",
+            "city": "Takasaki",
+            "description": "A grumpy hybrid of a rabbit and a falcon",
+            "picture": "/takausagi"
+        },
+        {
+            "name": "Coppel-kun",
+            "mascot": "Yokohama City’s Isezakicho Shopping District",
+            "prefecture": "Kanagawa",
+            "city": "Yokohama",
+            "description": "A flamboyant Danish seagull",
+            "picture": "/coppel-kun"
+        },
+        {
+            "name": "Hummer-kun",
+            "mascot": "Yokohama Port Festival",
+            "prefecture": "Kanagawa",
+            "city": "Yokohama",
+            "description": "A seagull with shades",
+            "official site": "http://www.kaikosai.com/",
+            "picture": "hammer-kun"
+        },
+        {
+            "name": "Inuakin",
+            "mascot": "Izumisano City",
+            "prefecture": "Osaka",
+            "city": "Izumisano",
+            "description": "A hero dog",
+            "picture": "/inuakin"
         }
+
 ]
