@@ -12,7 +12,7 @@
         {
             "name": "Melon-kuma",
             "japanese": "メロン熊",
-            "macot": "Yubari-cho (Unofficial)",
+            "mascot": "Yubari-cho (Unofficial)",
             "prefecture": "Hokkaido",
             "city": "Yubari",
             "description": "A bear with a yubari melon on its head.",
@@ -84,6 +84,7 @@
             "prefecture": "Hokkaido",
             "city": "Abashiri",
             "description": "A mascot modeled on a traditional toy made by the local Ainu tribes.",
+            "official site": "https://www.kangoku.jp/",
             "picture": "/nipo-kun"
         },
         {
@@ -111,6 +112,7 @@
             "mascot": "Tokaichi Festival",
             "prefecture": "Hokkaido",
             "description": "A sky blue squirrel with cloud hair.",
+            "official site": "https://uu-hokkaido.com/corporate/tourism/obihiro/obikan.shtml",
             "picture": "/soraisu"
         },
         {
@@ -165,10 +167,12 @@
         },
         {
             "name": "TV Tosan",
+            "japanese": "レビ父さん",
             "mascot": "Sapporo TV Tower",
             "prefecture": "Hokkaido",
             "city": "Sapporo",
             "description": "The Sapporo TV Tower, with a mustache",
+            "official site": "https://www.tv-tower.co.jp/en/",
             "picture": "/tv-tosan"
         },
         {
@@ -177,11 +181,13 @@
             "prefecture": "Hokkaido",
             "city": "Sapporo",
             "description": "A sheep with a cute camouflage bowtie.",
+            "official site": "https://www.mod.go.jp/gsdf/nae/index.html",
             "picture": "/moko"
 
         },
         {
             "name": "Kibicchi",
+            "japanese": "きびっち",
             "mascot": "Odori Park",
             "prefecture": "Hokkaido",
             "city": "Sapporo",
@@ -194,10 +200,12 @@
             "prefecture": "Hokkaido",
             "city": "Sapporo",
             "description": "His abstract art hat is the local logo, a K for Kiyota.",
+            "official site": "http://www.city.sapporo.jp.e.ain.hp.transer.com/kiyota/chiiki-shinko/kiyotchi/index.html",
             "picture": "/kiyotchi"  
         },
         {
             "name": "Kappon",
+            "japanese": "かっぽん",
             "mascot": "Jozankei Onsen",
             "prefecture": "Hokkaido",
             "city": "Sapporo",
@@ -219,17 +227,20 @@
             "prefecture": "Hokkaido",
             "city": "Sapporo",
             "description": "Modeled on the Blakiston's Fish Owl -- the largest owl in Japan and a very well-known denizen of Hokkaido.",
+            "official site": "https://international.consadole-sapporo.jp/teams/detail/665.html",
             "picture": "/dole-kun"
         },
         {
             "name": "Matagi no Momiji-chan",
-            "japanese": "はしあさこ",
+            "japanese": "またぎのもみじちゃん",
             "prefecture": "Hokkaido",
-            "description": "A gun toting pink yezo sika deer",
+            "description": "A gun toting pink yezo sika deer, often seen with Jingis Khan No Jin-Kun",
+            "official site": "http://jingisukan-jin.com/",
             "picture": "/matagi-no-momiji-chan"
         },
         {
-            "name:": "Ikube",
+            "name": "Ikube",
+            "japanese": "いくべぇは",
             "mascot": "Aomori Prefecture",
             "prefecture": "Aomori",
             "description": "He is a blue traveling fairy who fell in love with Aomori prefecture after wandering around Japan. Because of this love, he decided to live in Aomori (which means 'blue forest')",
@@ -237,6 +248,7 @@
         },
         {
             "name": "Wanko",
+            "japanese": "わんこ",
             "mascot": "Iwate Prefecture",
             "prefecture": "Iwate", 
             "description": "Inspired by a 'wanko soba' noodle, a famous local food in Iwate prefecture. Wanko consists of 5 brothers, each of them has a different motif and character.",
@@ -275,9 +287,11 @@
         },
         {
             "name" : "Kibitan",
+            "japanese": "キビタン",
             "mascot": "Fukushima Prefecture",
             "prefecture": "Fukushima",
             "description": "Based on the local 'Kibitaki' bird (the narcissus flycatcher). He was originally created for a nineties athletics event and now represents hopeful renewal for Fukushima.",
+            "official site": "https://www.pref.fukushima.lg.jp/site/movie-now-english/ch-e-ch-kibitan-yurukyara.html",
             "picture" : "/kibitan"
         },
         {
@@ -317,8 +331,10 @@
         },
         {
             "name": "Chiba-kun",
+            "japanese": "チーバくん",
             "mascot": "Chiba Prefecture",
             "description": "A mysterious red animal from Chiba Prefecture whose shape comes from the geography of the prefecture",
+            "official site": "https://www.pref.chiba.lg.jp/kokusai/english/information/residents/ambassadors.html",
             "picture": "/chiba-kun"
         },
         {
@@ -327,6 +343,7 @@
             "mascot": "Niigata Prefecture",
             "prefecture": "Niigata",
             "description": "TThe 270cm-tall skiing mascot based on Theodor Von-Lerch, an Austro-Hungarian major who brought the skiing to Japan",
+            "official site": "https://www.niigata-snow.jp/lerch/",
             "picture": "/reruhi-san"
         },
         {
@@ -341,6 +358,7 @@
             "mascot": "Ishikawa Prefecture",
             "prefecture": "Ishikawa",
             "description": "'Mr. One Million', generally unpopular because he is considered to be ugly",
+            "official site": "http://hyakumansan.jp/",
             "picture": "/hyakumansan"
         },
         {
@@ -348,7 +366,8 @@
             "japanese": "サウタン",
             "mascot": "Fukui Prefecture",
             "prefecture": "Fukui",
-            "description": "A dinosaur, meant to represent the many dinosaur fossils found in Fukui",
+            "description": "A dinosaur, meant to represent the many dinosaur fossils found in Fukui.  Part of the Juratic mascot group.",
+            "official site": "https://www.pref.fukui.lg.jp/doc/brandeigyou/brand/juratic.html",
             "picture": "/sautan"
         },
         {
@@ -373,6 +392,7 @@
             "mascot": "Gifu Prefecture",
             "prefecture": "Gifu",
             "description": "A smiling sprite",
+            "official site": "https://minamo-official.jp/",
             "picture": "/minamo"
         },
         {
@@ -387,7 +407,8 @@
         {
             "name": "Kappasalamander",
             "prefecture": "Osaka",
-            "description": "A hybrid of a kappa and an axolotl",
+            "city": "Tondabayashi",
+            "description": "A hybrid of a kappa and an axolotl.",
             "picture" : "/kappasalamander"
         },
         {
@@ -399,9 +420,12 @@
         },
         {
             "name": "Haropon",
+            "japanese": "ハロぽん",
             "mascot": "Niitsu Halloween Festival in Niigata",
             "prefecture": "Niigata",
+            "city": "Niitsu",
             "description": "A racoon dog witch",
+            "official site": "https://www.niitsu-halloween.com/hallopon",
             "picture" : "/haropon"
         },
         {
@@ -615,6 +639,26 @@
             "city": "Izumisano",
             "description": "A hero dog",
             "picture": "/inuakin"
+        },
+        {
+            "name": "Manmoshi",
+            "japanese": "マンモシ博士",
+            "mascot": "East Nippon Expressway Safe Driving in the Snow",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "A wooly mammoth who teaches the people of Japan how to safely drive in snow.",
+            "official site": "https://www.driveplaza.com/special/manmoshi/",
+            "picture": "/manmoshi"
+        },
+        {
+            "name": "Manbe-kun",
+            "japanese": "まんべくん",
+            "mascot": "Oshamanbe, Hokkaido",
+            "prefecture": "Hokkaido",
+            "city": "Oshamanbe",
+            "description": "A boy with crab claws, scallop ears, and an iris for hair.",
+            "official site": "https://manbe.jp/",
+            "picture": "/manbe-kun"
         }
 
 ]
