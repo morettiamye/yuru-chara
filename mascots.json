@@ -668,6 +668,16 @@
             "description": "A boy with crab claws, scallop ears, and an iris for hair.",
             "official site": "https://manbe.jp/",
             "picture": "/manbe-kun"
+        },
+        {
+            "name": "Ono-kun",
+            "japanese": "おのくん",
+            "mascot": "Higashimatsushima City",
+            "prefecture": "Miyagi",
+            "city": "Higashimatsushima",
+            "description": "A sockey monkey mascot modeled after the event when citizens sewed toys out of socks to help raise funds to rebuild the city after an earthquake.",
+            "official site": "https://socialimagine.wixsite.com/onokun",
+            "picture": "/ono-kun"
         }
 
 ]
