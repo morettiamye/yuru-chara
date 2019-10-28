@@ -430,6 +430,7 @@
         },
         {
             "name": "Omozo",
+            "japanese": "おもぞう",
             "mascot": "JRT, Shikoku Broadcasting",
             "prefecture": "Shikoku",
             "description": "A square elephant",
@@ -456,6 +457,7 @@
         },
         {
             "name": "Bun-chan",
+            "japanese": "ぶん",
             "mascot": "Bunkaru, a PR website run by Japan's Agency for Cultural Affairs",
             "prefecture": "Tokyo",
             "city": "Tokyo",
