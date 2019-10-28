@@ -12,10 +12,11 @@
         {
             "name": "Melon-kuma",
             "japanese": "メロン熊",
-            "mascot": "Yubari-cho (Unofficial)",
+            "mascot": "Yubari-cho",
             "prefecture": "Hokkaido",
             "city": "Yubari",
             "description": "A bear with a yubari melon on its head.",
+            "status": "Unofficial",
             "official site": "https://ameblo.jp/melon-kuma/",
             "picture": "/melon-kuma"
         },
@@ -112,7 +113,6 @@
             "mascot": "Tokaichi Festival",
             "prefecture": "Hokkaido",
             "description": "A sky blue squirrel with cloud hair.",
-            "official site": "https://uu-hokkaido.com/corporate/tourism/obihiro/obikan.shtml",
             "picture": "/soraisu"
         },
         {
@@ -551,6 +551,7 @@
         },
         {
             "name": "Dennyas",
+            "japanese": "デニャーズが",
             "mascot": "Dennys Restaurant",
             "prefecture": "Tokyo",
             "city": "Tokyo",
@@ -560,6 +561,7 @@
         },
         {
             "name": "Shugar",
+            "japanese": "シュガ～",
             "mascot": "Shuf-Chef Website",
             "prefecture": "Tokyo",
             "city": "Tokyo",
@@ -594,11 +596,13 @@
         },
         {
             "name": "Kawacchi",
+            "japanese": "かわっち",
             "mascot": "Kawaguchi City",
             "prefecture": "Saitama",
             "city": "Kawaguchi City",
+            "status": "Unofficial",
             "description": "A philosophical kappa",
-            "official site": "https://twitter.com/kawacchi_kawa",
+            "official site": "http://kawacchi-novel.blog.jp/",
             "picture": "/kawacchi"
         },
         {
@@ -627,19 +631,22 @@
         },
         {
             "name": "Hummer-kun",
+            "status": "ハマー君",
             "mascot": "Yokohama Port Festival",
             "prefecture": "Kanagawa",
             "city": "Yokohama",
             "description": "A seagull with shades",
             "official site": "http://www.kaikosai.com/",
-            "picture": "hammer-kun"
+            "picture": "/hummer-kun"
         },
         {
-            "name": "Inuakin",
+            "name": "Inunakin",
+            "japanese": "イヌナキン",
             "mascot": "Izumisano City",
             "prefecture": "Osaka",
             "city": "Izumisano",
             "description": "A hero dog",
+            "official site": "https://inunakinn.com/",
             "picture": "/inuakin"
         },
         {
