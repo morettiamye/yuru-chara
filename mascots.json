@@ -786,5 +786,26 @@
             "description": "",
             "official site": "",
             "picture": "/momotan"
+        },
+        {
+            "name": "Chico-chan",
+            "japanese": " チコちゃん",
+            "mascot": "'Dont Sleep Through Life' quiz show and as an ambassador for women's participation in sports",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "A 5-year-old girl who scolds adults for not knowing the answers to simple but perplexing questions about life.",
+            "official site": "https://www4.nhk.or.jp/chikochan/",
+            "picture": "/chico-chan"
+
+        },
+        {
+            "name": "Komapon",
+            "japanese": "こまポン",
+            "mascot": "Komatsushima",
+            "prefecture": "Tokushima",
+            "city": "Komatsushima",
+            "description": "A cross between a tanuki and a samurai.",
+            "official site": "https://www.city.komatsushima.lg.jp/komatsushima-navi/access/19446.html",
+            "picture": "/komapon"
         }
     ]
