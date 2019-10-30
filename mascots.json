@@ -678,6 +678,93 @@
             "description": "A sockey monkey mascot modeled after the event when citizens sewed toys out of socks to help raise funds to rebuild the city after an earthquake.",
             "official site": "https://socialimagine.wixsite.com/onokun",
             "picture": "/ono-kun"
+        },
+        {
+            "name": "Komoshika",
+            "japanese": "こもしか",
+            "mascot": "Komono Town",
+            "prefecture": "Mie",
+            "city": "Komono",
+            "description": "A wide-eyed Japanese serow with wild rice stems for horns and naruto fish cakes for cheeks.  He is said to inhabit Mt. Gozaisho.",
+            "official site": "http://www.kanko-komono.com/komoshika/",
+            "picture": "/komoshika"
+        },
+        {
+            "name": "Gosshi",
+            "mascot": "Goryokaku Park",
+            "prefecture": "Hokkaido",
+            "city": "Hakodate",
+            "description": "A carp possessed by the soul of a dead soldier (who happens to wear stockings and high heels).  The stars on its head represent the star shape of Goryokaku Park.",
+            "picture" : "/gosshi"
+        },
+        {
+            "name": "Super Hakuto-kun",
+            "japanese": "スーパーはくとくん",
+            "mascot": "Super Hakuto Express Train",
+            "prefecture": "Kyoto",
+            "city": "Kyoto",
+            "description": "A boxing bunny mixed with a train car.",
+            "official site": "http://www.chizukyu.co.jp/chizukyu/special/character/",
+            "picture": "/super-hakuto-kun"
+        },
+        {
+            "name": "Jacu-jii",
+            "japanese": "じゃぐ爺",
+            "mascot": "Osaka Municipal Waterworks Bureau ",
+            "prefecture": "Osaka",
+            "city": "Osaka",
+            "description": "Hybrid of an old man and the faucet of a jacuzzi.",
+            "official site": "https://www.city.osaka.lg.jp/contents/wdu030/oishii/",
+            "picture": "/jacu-jii"
+        },
+        {
+            "name": "Purea",
+            "japanese": "ぴゅあら",
+            "mascot": "Osaka Municipal Waterworks Bureau",
+            "prefecture": "Osaka",
+            "city": "Osaka",
+            "description": "A raindrop who fell from the sky and ended up at the water treatment facility.",
+            "official site" : "https://www.city.osaka.lg.jp/contents/wdu030/oishii/",
+            "picture": "/purea"
+        },
+        {
+            "name": "Anameshiusu & Tororinu",
+            "japanese:": "とろりーぬ＆アナメシウス",
+            "mascot": "Tamano Ontama Meshi, a meal consisting of eel, rice, and a poached egg.",
+            "prefecture": "Okayama",
+            "city": "Tamano",
+            "description": "Created to represent Tamano Ontama Meshi all around the country, Anameshiusu is an eel fairy that wears the bird mascot Tororinu on its head.",
+            "official site": "https://www.donbla.co.jp/tamano/",
+            "picture": "/anameshiusu"
+        },
+        {
+            "name": "Baron Ciste",
+            "japanese:": "シスト男爵",
+            "mascot": "Mukawa Town (Unofficial)",
+            "prefecture": "Hokkaido",
+            "city": "Mukawa",
+            "description": "An ammonite-headed gentleman trickster who likes chess, riddles, opera, and fine wines.",
+            "official site": "http://ciste.web.fc2.com/",
+            "picture": "/baron-ciste"
+        },
+        {
+            "name": "Mukaron",
+            "japanese": "むかろん",
+            "mascot": "Mukawa Town",
+            "prefecture": "Hokkaido",
+            "city": "Mukawa",
+            "description": "Mukaron has a melon head being bit by a dinosaur, a dried smelt in his hand, and a lettuce bag.",
+            "official site": "http://www.town.mukawa.lg.jp/item/5644.htm#itemid5644",
+            "picture": "/mukaron"
+        },
+        {
+            "name": "Kurihei",
+            "japanese": "",
+            "mascot": "Yamae Village",
+            "prefecture": "Kumamoto",
+            "city": "Yamae",
+            "description": "A chesnut mixed with a bear.",
+            "official site": "",
+            "picture": "/kurihei"
         }
-
 ]
