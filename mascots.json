@@ -758,13 +758,33 @@
             "picture": "/mukaron"
         },
         {
-            "name": "Kurihei",
-            "japanese": "",
+            "name": "Tsubaki Yamae Kurihira",
+            "japanese": "やまえ くり平”が",
             "mascot": "Yamae Village",
             "prefecture": "Kumamoto",
             "city": "Yamae",
             "description": "A chesnut mixed with a bear.",
             "official site": "",
-            "picture": "/kurihei"
+            "picture": "/kurihira"
+        },
+        {
+            "name": "Nebatchi",
+            "japanese": "ねばっち",
+            "mascot": "Towada City",
+            "prefecture": "Aomori",
+            "city": "Towada",
+            "description": "A sentient potato. Nebatchi loves taking naps and sumo wrestling.",
+            "official site": "http://www.pj-towada.jp/html/nebatchi.html",
+            "picture": "/nebatchi"
+        },
+        {
+            "name": "Momomtan",
+            "japanese": "",
+            "mascot": "Momodani Shopping Street",
+            "prefecture": "Osaka",
+            "city": "Osaka",
+            "description": "",
+            "official site": "",
+            "picture": "/momotan"
         }
-]
+    ]
