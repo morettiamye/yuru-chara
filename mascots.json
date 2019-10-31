@@ -729,7 +729,7 @@
         },
         {
             "name": "Anameshiusu & Tororinu",
-            "japanese:": "とろりーぬ＆アナメシウス",
+            "japanese": "とろりーぬ＆アナメシウス",
             "mascot": "Tamano Ontama Meshi, a meal consisting of eel, rice, and a poached egg.",
             "prefecture": "Okayama",
             "city": "Tamano",
@@ -739,12 +739,12 @@
         },
         {
             "name": "Baron Ciste",
-            "japanese:": "シスト男爵",
+            "japanese": "シスト男爵",
             "mascot": "Mukawa Town (Unofficial)",
             "prefecture": "Hokkaido",
             "city": "Mukawa",
             "description": "An ammonite-headed gentleman trickster who likes chess, riddles, opera, and fine wines.",
-            "official site": "http://ciste.web.fc2.com/",
+            "official site": "http://ciste.web.fc2.com/",
             "picture": "/baron-ciste"
         },
         {
@@ -804,8 +804,48 @@
             "mascot": "Komatsushima",
             "prefecture": "Tokushima",
             "city": "Komatsushima",
-            "description": "A cross between a tanuki and a samurai.",
+            "description": "A cross between a tanuki and a samurai named Yoshinobu Minamoto.",
             "official site": "https://www.city.komatsushima.lg.jp/komatsushima-navi/access/19446.html",
             "picture": "/komapon"
+        },
+        {
+            "name": "Sudachi-kun",
+            "japanese": "すだちくん",
+            "mascot": "Tokushima Prefecture",
+            "prefecture": "Tokushima",
+            "city": "",
+            "description": "One of Japans oldest mascots, he is a sentient sudachi citrus fruit.",
+            "official site": "https://sudachikun.jp/",
+            "picture": "/sudachi-kun"
+        },
+        {
+            "name": "Makibe",
+            "japanese": "まきべ",
+            "mascot": "Isumi Lifestyle Lab",
+            "prefecture": "Chiba",
+            "city": "Isumi",
+            "description": "An angry hedge",
+            "official site": "https://ameblo.jp/makibeee/",
+            "picture": "/makibe"
+        },
+        {
+            "name": "Hinumaru-kun",
+            "japanese": "ひぬ丸くん",
+            "mascot": "Ibaraki Town's Agriculture",
+            "prefecture": "Ibaraki",
+            "city": "Ibaraki",
+            "description": "A green fairy who loves nature.",
+            "official site": "https://www.zck.or.jp/site/local-mascot/13734.html",
+            "picture": "/hinumaru-kun"
+        },
+        {
+            "name": "Midorin",
+            "japanese": "ミドリン",
+            "mascot": "Yokohamas Midori Ward",
+            "prefecture": "Kanagawa",
+            "city": "Yokohama",
+            "description": "A forest sprite whose special skill is photosynthesis. The cheeks are designed with purple petals of “Silane”, a Midori-ku flower.",
+            "official site": "https://www.city.yokohama.lg.jp/midori/shokai/mascot/midorin.html",
+            "picture": "/midorin"
         }
     ]
