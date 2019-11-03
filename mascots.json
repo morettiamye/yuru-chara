@@ -381,9 +381,12 @@
         },
         {
             "name": "Arukuma",
+            "japanese": "アルクマ",
             "mascot": "Nagano Prefecture",
             "prefecture": "Nagano",
-            "description": "A walking bear with an Nagano apple hat",
+            "city": "",
+            "description": "A walking bear with an Nagano apple hat.  Arukuma won first place in the 2019 Yuru Chara Grand Prix.",
+            "official site": "http://arukuma.jp/",
             "picture": "/arukuma"
         },
         {
@@ -645,7 +648,7 @@
             "mascot": "Izumisano City",
             "prefecture": "Osaka",
             "city": "Izumisano",
-            "description": "A hero dog",
+            "description": "A hero dog.  He won 2nd place in the 2019 Yuru-Chara Grand Prix.",
             "official site": "https://inunakinn.com/",
             "picture": "/inuakin"
         },
@@ -847,5 +850,76 @@
             "description": "A forest sprite whose special skill is photosynthesis. The cheeks are designed with purple petals of “Silane”, a Midori-ku flower.",
             "official site": "https://www.city.yokohama.lg.jp/midori/shokai/mascot/midorin.html",
             "picture": "/midorin"
+        },
+        {
+            "name": "Uzutama-kun",
+            "japanese": "うずたまくん",
+            "mascot": "Dazai Junior High School",
+            "prefecture": "Kyoto",
+            "city": "Kyoto",
+            "description": "A fairy that lives at Dazai Junior High School in Kyoto.  Uzutama-kun came dead last in the 2019 Yuru Chara Grand Prix.",
+            "official site": "http://cms.edu.city.kyoto.jp/weblog/index.php?id=204408",
+            "picture": "/uzutama-kun"
+        },
+        {
+            "name": "Korou-kun",
+            "japanese": "ころう君",
+            "mascot": "Kikuchi City",
+            "prefecture": "Kumamoto",
+            "city": "Kikuchi",
+            "description": "Korou-kun has Kikuchi Castle on his head.  Korou-kun also won 3rd place in the 2019 Yuru-Chara Grand Prix.",
+            "official site": "http://cyber.pref.kumamoto.jp/korou-tai/",
+            "picture": "/korou-kun"
+        },
+        {
+            "name": "Takinomichi Yuzuru",
+            "japanese": "滝ノ道ゆずる",
+            "mascot": "Minoh City",
+            "prefecture": "Osaka",
+            "city": "Minoh",
+            "description": "A yuzu that promotes Minoh Citys natural sights.",
+            "official site": "http://www.yuzuyuzu.jp/",
+            "picture": "/takinomichi-yuzuru"
+        },
+        {
+            "name": "Antarou",
+            "japanese": "安田朗",
+            "mascot": "Yasuda Town",
+            "prefecture": "Kochi",
+            "city": "Yasuda",
+            "description": "Antarou was born and raised in the Yasuda River.  He wears a kite on his back and a local costume.",
+            "official site": "https://www.town.yasuda.kochi.jp/index.php",
+            "picture": "/antarou"
+        },
+        {
+            "name": "Tosakenpi",
+            "japanese": "とさけんぴ",
+            "mascot": "Kochi City",
+            "prefecture": "Kochi",
+            "city": "Kochi",
+            "description": "A dog with the local Harimaya-bashi bridge on his head.  He loves sumo.",
+            "official site": "http://tosakenpi.com/",
+            "picture": "/tosakenpi"
+        },
+        {
+            "name": "Chachamaru",
+            "japanese": "ちゃちゃまる",
+            "mascot": "Ikeda Town",
+            "prefecture": "Gifu",
+            "city": "Ikeda",
+            "description": "A bunny with mino ichiba leaves for ears and cherry blossom decorations.",
+            "official site": "https://www.town.gifu-ikeda.lg.jp/0000001061.html",
+            "picture": "/chachamaru"
+        },
+        {
+            "name": "Echigon",
+            "japanese": "えちゴン",
+            "mascot": "Amagasaki City",
+            "prefecture": "Niigata",
+            "city": "Amagasaki",
+            "description": "A yellow demon who represents Amagaski City.",
+            "official site": "https://kashiwazaki-jc.or.jp/echigon/",
+            "picture": "/echigon"
+
         }
     ]
