@@ -921,5 +921,125 @@
             "official site": "https://kashiwazaki-jc.or.jp/echigon/",
             "picture": "/echigon"
 
+        },
+        {
+            "name": "Kurupa",
+            "japanese": "くるっぱ",
+            "mascot": "Kurume City",
+            "prefecture": "Fukuoka",
+            "city": "Kurume",
+            "description": "A kappa born in the Chikugo River, he is the advertising manager for Kurume City",
+            "official site": "https://www.kurumepr.com/main/11.html",
+            "picture": "/kurupa"
+        },
+        {
+            "name": "Okazaemon",
+            "japanese": "オカザえもん",
+            "mascot": "Okazaki City (Unofficial)",
+            "prefecture": "Aichi",
+            "city": "Okazaki",
+            "description": "Okazaemon originally appeared in the Okazaki Art & Jazz Festival in 2012 but became popular. Okazaemon was declared the Minister of Public Affairs for Okazaki Art in 2013.",
+            "official site": "http://okazaemon.co/",
+            "picture": "/okazaemon"
+        },
+        {
+            "name": "Omapyon",
+            "japanese": "おおまぴょん",
+            "mascot": "Omachi City",
+            "prefecture": "Nagano",
+            "city": "Omachi",
+            "description": "An antelope featuring the northern Alps on its head.",
+            "official site": "http://www.city.omachi.nagano.jp/00013000/00013300/00013328/00035724.html",
+            "picture": "/omapyon"
+        },
+        {
+            "name": "Victoire Cheval Blanc Murao III",
+            "japanese": "ヴィクトワール・シュヴァルブラン・村男Ⅲ世",
+            "mascot": "Hakuba Village",
+            "prefecture": "Nagano",
+            "city": "Hakuba",
+            "description": "Born from the Pegasus Meteor Shower, he commemorates the 100th anniverary of skiing in Hakuba.  It's wings are handmaid, and therefor cannot fly.",
+            "official site": "http://www.hakuba-murao3.jp/",
+            "picture": "/victoire-cheval-blanc-murao-iii"
+        },
+        {
+            "name": "Toyonon",
+            "japanese": "とよのん",
+            "mascot": "Toyonomachi",
+            "prefecture": "Osaka",
+            "city": "Toyonomachi",
+            "description": "A dandelion that blooms in the Toyonomachi countryside.",
+            "official site": "http://www.town.toyono.osaka.jp/sp/page/page000228.html",
+            "picture": "/toyonon"
+        },
+        {
+            "name": "Midomosu",
+            "japanese": "みどモス",
+            "mascot": "Midos City",
+            "prefecture": "Gunma",
+            "city": "Midos",
+            "description": "A 35,000 year old mammoth.  He was found in the Iwajuku ruins.",
+            "official site": "https://www.city.midori.gunma.jp/midomosu.html",
+            "picture": "/midomosu"
+        },
+        {
+            "name": "Saigo Tsun",
+            "japanese": "西郷つん",
+            "mascot": "Satsumasendai Tourism",
+            "prefecture": "Kagoshima",
+            "city": "Satsumasendai",
+            "description": "Saigo Takomori's dog Tsun.  He was an influential samurai from Satsumasendai.",
+            "official site": "https://satsumasendai.gr.jp/for-business/tsun/",
+            "picture": "/saigo-tsun"
+        },
+        {
+            "name": "Ragamaru",
+            "japanese": "ラガマルくん",
+            "mascot": "Unofficial Rugby Mascot",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "An alien who resembles a dog, made to promote rugby in Japan.",
+            "official site": "https://rmk.jp/",
+            "picture": "/ragamaru"
+        },
+        {
+            "name": "Zaosama",
+            "japanese": "ざおうさま",
+            "mascot": "Zao Town",
+            "prefecture": "Miyagi",
+            "city": "Zao",
+            "description": "Born and lives in Zao Forest. He is shy and lives alone as the King.",
+            "official site": "http://www.town.zao.miyagi.jp/kankou/zaosama/zaosama.html",
+            "picture": "/zaosama"
+        },
+        {
+            "name": "Yokojiro",
+            "japanese": "よコジロー",
+            "mascot" : "Ochi Town",
+            "prefecture": "Kochi",
+            "city": "Ochi",
+            "description": "A japanese white eye bird with a cedar tree on his chest.  His hat is shaped like a local mountain.  The flower he holds in his beak is a gift for his wife.",
+            "official site": "http://www.town.ochi.kochi.jp/yokojiro/prof.htm",
+            "picture": "/yokojiro"
+        },
+        {
+            "name": "Keyaki",
+            "japanese": "ケヤッキー",
+            "mascot": "Miyagi Prefecture",
+            "prefecture": "Miyagi",
+            "city": "",
+            "description": "Originally introduced in 2001 for the Come on Miyagi campaign, Keyaki is designed as a keaki tree which Miyagi prefecture is known for.  He had quietly retired but has gained enough popularity that he ranked in the top 20 for the 2019 Yuru-Chara Grand Prix.",
+            "official site": "https://oimyg.jimdo.com/info/",
+            "picture": "/keyaki"
+        },
+        {
+            "name": "Unagiimo no Unamo",
+            "japanese": "うなぎいもの「うなも",
+            "mascot": "Hamamatsu",
+            "prefecture": "Shizuoka",
+            "city": "Hamamatsu",
+            "description": "A mysterious creature harvested after cultivating sweet potatoes using eel.  The head is a sweet potato, the body an eel, and the mustache a plain boring mustache.",
+            "official site": "https://unagiimo.com/unamo/index.html",
+            "picture": "/unagiimo-no-unamo"
         }
     ]
