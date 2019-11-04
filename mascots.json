@@ -248,7 +248,7 @@
         },
         {
             "name": "Wanko",
-            "japanese": "わんこ",
+            "japanese": "",
             "mascot": "Iwate Prefecture",
             "prefecture": "Iwate", 
             "description": "Inspired by a 'wanko soba' noodle, a famous local food in Iwate prefecture. Wanko consists of 5 brothers, each of them has a different motif and character.",
@@ -256,9 +256,12 @@
         },
         {
             "name": "Musubimaru", 
+            "japanese": "むすび丸",
             "mascot": "Miyagi Prefecture",
             "prefecture": "Miyagi",
+            "city": "",
             "description": "A rice ball samurai. Rice is famous produce in Miyagi and its armor design comes after the local hero'Masamune Date'",
+            "official site": "http://www.sendaimiyagidc.jp/musubimaru/",
             "picture" : "/musubimaru"
         },
         {
@@ -1091,5 +1094,145 @@
             "description": "A hybrid of a cat and a cabbage.  She is known for singing and generally exists to make child-rearing more fun.",
             "official site": "https://kyabettsusan.nishitokyo.city/",
             "picture": "/kyabettsusan"
+        },
+        {
+            "name": "Ukipii",
+            "japanese": "うきぴー",
+            "mascot": "Ukiha City",
+            "prefecture": "Fukuoka",
+            "city": "Ukiha",
+            "description": "A sentient persimmon.",
+            "official site": "http://www.city.ukiha.fukuoka.jp/life/pub/Detail.aspx?c_id=44&id=203&pg=1&type=list",
+            "picture": "/ukipii"
+        },
+        {
+            "name": "Ainosuke",
+            "japanese": "あいのすけ",
+            "mascot": "Aizumi Town",
+            "prefecture": "Tokushima",
+            "city": "Aizumi",
+            "description": "A kind hearted indigo merchant.",
+            "official site": "https://www.town.aizumi.lg.jp/",
+            "picture": "/ainosuke"
+        },
+        {
+            "name": "Mamekichi",
+            "japanese": "まめ吉",
+            "mascot": "Okazaki City Health and Food Education",
+            "prefecture": "Aichi",
+            "city": "Okazaki",
+            "description": "A naughty legume who works to promote health in Okazaki City.",
+            "official site": "",
+            "picture": "/mamekichi"
+        },
+        {
+            "name": "Kakitan",
+            "japanese": "かきたん",
+            "mascot": "The Kikita Kawakami Agricultural Cooperative",
+            "prefecture": "Wakayama",
+            "city": "Hashimoto",
+            "description": "A persimmon bear that works as a PR representative for the Kikita Kawakami Arigricultural Cooperative in Wakayama prefecture.",
+            "official site": "http://www.ja-kihokukawakami.or.jp/",
+            "picture": "/kakitan"
+        },
+        {
+            "name": "Utou",
+            "japanese": "うとう",
+            "mascot": "Ryo Ono Junior High School",
+            "prefecture": "Nagano",
+            "city": "Shiojiri",
+            "description": "Based on the folk tale 'Zenichi Tosu'.  He is an odu bird with three children. ",
+            "official site": "https://ryouonogakuen.wixsite.com/ryouono",
+            "picture": "/utou"
+        },
+        {
+            "name": "Director Matsushige",
+            "japanese": "松茂係長",
+            "mascot": "Matsushige Town",
+            "prefecture": "Tokushima",
+            "city": "Matsushige",
+            "description": "A rabbit from the moon who became a prisoner while obeserving Earth from the Moon.  He wears a sweet potato colored suit with a chesnut tree bag and a crysanthemum pinned to his jacket.",
+            "official site": "https://www.town.matsushige.tokushima.jp/docs/2017081500013/",
+            "picture": "/director-matsushige"
+        },
+        {
+            "name": "Ozumin",
+            "japanese": "おづみん",
+            "mascot": "Izumiotsu City",
+            "prefecture": "Osaka",
+            "city": "Izumiotsu",
+            "description": "A sheep whose job it is to promote Izumiostu, the best blanket town in Japan.",
+            "official site": "http://www.city.izumiotsu.lg.jp/topics/1338947765679.html",
+            "picture": "/ozumin"
+        },
+        {
+            "name": "Okechan",
+            "japanese": "オケちゃん",
+            "mascot": "Okegawa City",
+            "prefecture": "Saitama",
+            "city": "Yodogawa",
+            "description": "A safflower in a kimono.",
+            "official site": "http://www.okekan.com/",
+            "picture": "/okechan"
+        },
+        {
+            "name": "Ukedon",
+            "japanese": "うけどん",
+            "mascot": "Namie Town",
+            "prefecture": "Fukushima",
+            "city": "Namie",
+            "description": "A rice fairy bown in Namie Town, who lives in a bowl of salmon and fish cakes.",
+            "official site": "https://ukedon.jp/",
+            "picture": "ukedon"
+        },
+        {
+            "name": "Saburo Asahina",
+            "japanese": "アサヒナサブロー",
+            "mascot": "Yamato City",
+            "prefecture": "Miyagi",
+            "city": "Yamato",
+            "description": "Based on a warrior from the 13th century by the same name.",
+            "official site": "https://www.town.taiwa.miyagi.jp/site/kanko/1284.html",
+            "picture": "/saburo-asahina"
+        },
+        {
+            "name": "Matsuhime Mappy",
+            "japanese": "松姫マッピー",
+            "mascot": "Hachioji City",
+            "prefecture": "Tokyo",
+            "city": "Hachioji",
+            "description": "A fairy who loves Matsuda-sama, who was integral to the textile industry in Hachioji.",
+            "official site": "http://matsuhime-mappy.jp/",
+            "picture": "/matsuhime-mappy"
+        },
+        {
+            "name": "Awajin",
+            "japanese": "あわ神",
+            "mascot": "Awaji City",
+            "prefecture": "Hyogo",
+            "city": "Awaji",
+            "description": "A god from Awaji city with the Akashi Kaikyo Bridge on his head.",
+            "official site": "https://www.city.awaji.lg.jp/soshiki/kankou/2011040009.html",
+            "picture": "/awajin"
+        },
+        {
+            "name": "Sacchan",
+            "japanese": "サシバのサッちゃん",
+            "mascot": "Ichikai Town",
+            "prefecture": "Tochigi",
+            "city": "Ichikai",
+            "description": "A hawk with two children Icchan and Kaichan.  She raises her children in the rich nature of Ichikai.",
+            "official site": "http://www.pref.tochigi.lg.jp/a03/town/shinkou/shinkou/tochichara/sacchan.html",
+            "picture": "/sacchan"
+        },
+        {
+            "name": "Kakitsubatan",
+            "japanese": "かきつばたん",
+            "mascot": "Kariya City Special Support School",
+            "prefecture": "Aichi",
+            "city": "Kariya",
+            "description": "A fairy of the kakitsuba flower.  She was born in the Kariya City Special Support School.",
+            "official site": "http://www.city.kariya.aichi.jp/school/tokushi/h_kakitsubatannikki_01.html",
+            "picture": "/kakitsubatan"
         }
     ]
