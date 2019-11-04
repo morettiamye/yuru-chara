@@ -1041,5 +1041,55 @@
             "description": "A mysterious creature harvested after cultivating sweet potatoes using eel.  The head is a sweet potato, the body an eel, and the mustache a plain boring mustache.",
             "official site": "https://unagiimo.com/unamo/index.html",
             "picture": "/unagiimo-no-unamo"
+        },
+        {
+            "name": "Fluffy Tamako",
+            "japanese": "ふっくらたまこ",
+            "mascot": "Tako City",
+            "prefecture": "Chiba",
+            "city": "Tako",
+            "description": "A rice fairy loved by everyone. She also wears a hydrangea on her head.",
+            "official site": "https://www.town.tako.chiba.jp/docs/2018012900353/",
+            "picture": "/fluffy-tamako"
+        },
+        {
+            "name": "Kuroshiokun",
+            "japanese": "くろしおくん",
+            "mascot": "Kochi Prefecture",
+            "prefecture": "Kochi",
+            "city": "",
+            "description": "A north-flowing Pacific Ocean current that touches Kochi Prefecture.",
+            "official site": "https://www.pref.kochi.lg.jp/kuroshiokun/",
+            "picture": "/kuroshiokun"
+        },
+        {
+            "name": "Mei-Hime",
+            "japanese": "めい姫",
+            "mascot": "Miewa City",
+            "prefecture": "Mie",
+            "city": "Meiwa",
+            "description": "An eternal princess who is good at dancing.  Thought to have an affiliation with the Shinto god Ameratsu.",
+            "official site": "https://www.town.meiwa.mie.jp/main/index.html",
+            "picture": "/mie-hime"
+        },
+        {
+            "name": "Misabo",
+            "japanese": "みさ坊",
+            "mascot": "Misato Town",
+            "prefecture": "Shimane",
+            "city": "Misato",
+            "description": "A two month old wild boar child.  His hat is shaked like Enokawa and he has a badge in the shape of Nobiki Bridge.",
+            "official site": "http://gov.town.shimane-misato.lg.jp/soshiki/61/1418",
+            "picture": "/misabo"
+        },
+        {
+            "name": "Kyabettsusan",
+            "japanese": "キャベッツさん",
+            "mascot": "Supporter of Moms in Nishitokyo City",
+            "prefecture": "Tokyo",
+            "city": "Tokyo",
+            "description": "A hybrid of a cat and a cabbage.  She is known for singing and generally exists to make child-rearing more fun.",
+            "official site": "https://kyabettsusan.nishitokyo.city/",
+            "picture": "/kyabettsusan"
         }
     ]
