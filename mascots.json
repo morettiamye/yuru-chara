@@ -333,6 +333,16 @@
             "picture": "/kobaton"
         },
         {
+            "name": "Saimachi",
+            "japanese": "さいたまっち",
+            "mascot": "Saitama Prefecture",
+            "prefecture": "Saitama",
+            "city": "Saitama",
+            "description": "Works as a mascot for Saitama Prefecture along with Kobaton.  Some consider Saimachi to be Kobatons rival.",
+            "official site": "https://www.pref.saitama.lg.jp/a0301/kobaton/saitamatch-b.html",
+            "picture": "/saimachi"
+        },
+        {
             "name": "Chiba-kun",
             "japanese": "チーバくん",
             "mascot": "Chiba Prefecture",
@@ -1376,5 +1386,105 @@
             "description": "A superhero soap bubble meant to teach others about washing their hands properly.",
             "official site": "http://www.shinjukuku-shokyo.net/",
             "picture": "/shinjuku-awawa"
+        },
+        {
+            "name": "Daizo",
+            "japanese": "だいゾウ",
+            "mascot": "Daido University Admissions and PR",
+            "prefecture": "Aichi",
+            "city": "Minami, Nagoya",
+            "description": "An elephant with a hair style commonly associated with yankee youth, holding an apple.",
+            "official site": "https://www.daido-it.ac.jp/",
+            "picture": "/daizo"
+        },
+        {
+            "name": "Azumappi",
+            "japanese": "あずまっピー",
+            "mascot": "Ageo City Higashimachi Elementary School",
+            "prefecture": "Saitama",
+            "city": "Ageo",
+            "description": "A bird mascot for Ageo City Higashimachi Elementary School.  No other description has been found.",
+            "official site": "https://www.city.ageo.lg.jp/site/azumacho-elementaryschool/",
+            "picture": "/azumappi"
+        },
+        {
+            "name": "Ichikawa Misato Rangers (Ninnin, Dondon, Ponpon)",
+            "japanese": "市川三郷レンジャー（にんにん・どんどん・ぽんぽん",
+            "mascot": "Ichikawa City",
+            "prefecture": "Chiba",
+            "city": "Ichikawa",
+            "description": "Each character represents a special product from Ichikawa.  Ninnin represents the otsuka carrot, Dondon represents fireworks, and Ponpon represents Ichikawas seal making.",
+            "official site": "http://www.town.ichikawamisato.yamanashi.jp/02topics/ichikawa_misato_ranger.html",
+            "picture": "/ichikawa-misato-rangers"
+        },
+        {
+            "name": "The Hashikami Kids",
+            "japanese": "はしかみキッズ",
+            "mascot": "Hashikami Town",
+            "prefecture": "Aomori",
+            "city": "Hashikami",
+            "description": "The Hashikami Kids consist of Kazemaru (sea urchin), Princess Azalea (azalea flower) and Abramme-kun (an ainame fish).  These are all special products from Hashikami.",
+            "official site": "https://www.town.hashikami.lg.jp/index.cfm/6,0,78,html",
+            "picture": "/hashikami-kids"
+        },
+        {
+            "name": "Yashimon♪",
+            "japanese": "やしモン♪",
+            "mascot": "The North Hachishita School District",
+            "prefecture": "Osaka",
+            "city": "Sakai, Osaka",
+            "description": "A smart and gentle scarecrow who is a bit of a glutton.",
+            "official site": "https://twitter.com/yashiyashimon",
+            "picture": "/yashimon"
+        },
+        {
+            "name": "Nabari no Hiyawan",
+            "japanese": "名張のひやわん",
+            "mascot": "Nabari City",
+            "prefecture": "Mie",
+            "city": "Nabari",
+            "description": "A dog with a Noh mask for a face.",
+            "official site": "http://hiyawan.jp/grape1/",
+            "picture": "/nabari-no-hiyawan"
+        },
+        {
+            "name": "Moriyoshi",
+            "japanese": "もり吉",
+            "mascot": "Moriguchi City",
+            "prefecture": "Osaka",
+            "city": "Moriguchi City, Osaka",
+            "description": "A naughty shiba inu whose favorite food is moriguchizuke, a type of pickled radish.",
+            "official site": "http://www.city.moriguchi.osaka.jp/lifeinfo/kakukanoannai/kikakuzaiseibu/kohokochoka/cityp/1524108927158.html",
+            "picture": "/morikichi"
+        },
+        {
+            "name": "Chibo",
+            "japanese": "ちーぼ",
+            "mascot": "Hadano City Children's Association",
+            "prefecture": "Kanagawa",
+            "city": "Hadano",
+            "description": "A young child with an acorn shaped head, he serves as a liason for the Hanado City Children's Association.",
+            "official site": "https://www.city.chino.lg.jp/site/kids/18.html",
+            "picture": "/chibo"
+        },
+        {
+            "name": "Hachikazukichan and Neyamarukun",
+            "japanese": "はちかづきちゃん・ねや丸くん",
+            "mascot": "Neyagawa City",
+            "prefecture": "Osaka",
+            "city": "Neyagawa",
+            "description": "Hachikazuki-chan is based upon the famous folk tale 'Hachikazuki-hime'. Neyamaru-kun is based on the fourth son of the Sanin 3rd Lieutenant General Mincho who appear in the folk tale.  ",
+            "official site": "https://www.city.neyagawa.osaka.jp/other/character_introduction.html",
+            "picture": "/hachikazukichan"
+        },
+        {
+            "name": "Ka-min",
+            "japanese": "カーミン",
+            "mascot": "Kamikawa Town",
+            "prefecture": "Hokkaido",
+            "city": "Kamikawa",
+            "description": "Often mistaken for a rabbit, Ka-min is a forest fairy with a heart shaped face similar to the land form of Kamikawa.",
+            "official site": "https://www.kamikawa-navi.jp/kamin",
+            "picture": "/ka-min"
         }
     ]
