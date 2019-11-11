@@ -587,7 +587,7 @@
             "name": "Psychedelhi-san",
             "mascot": "Kouenji District in Tokyo",
             "prefecture": "Tokyo",
-            "city": "Tokyo",
+            "city": "Kouenji, Tokyo",
             "description": "A mildly racist Indian psychidelic mushroom.  Chosen in a contest that included over 890 designs, it is truly unknown to us why this one was picked.",
             "official site": "https://koenjieco.com/en/2018/08/27/psyche_delhi-san/",
             "picture": "/psychedelhi-san"
@@ -1090,7 +1090,7 @@
             "japanese": "キャベッツさん",
             "mascot": "Supporter of Moms in Nishitokyo City",
             "prefecture": "Tokyo",
-            "city": "Tokyo",
+            "city": "Nishitokyo, Tokyo",
             "description": "A hybrid of a cat and a cabbage.  She is known for singing and generally exists to make child-rearing more fun.",
             "official site": "https://kyabettsusan.nishitokyo.city/",
             "picture": "/kyabettsusan"
@@ -1234,5 +1234,147 @@
             "description": "A fairy of the kakitsuba flower.  She was born in the Kariya City Special Support School.",
             "official site": "http://www.city.kariya.aichi.jp/school/tokushi/h_kakitsubatannikki_01.html",
             "picture": "/kakitsubatan"
+        },
+        {
+            "name": "Nashita",
+            "japanese": "",
+            "mascot": "",
+            "prefecture": "Tottori",
+            "city": "",
+            "description": "A shiitake mushroom with pears for ears",
+            "official site": "",
+            "picture": "/nashita"
+        },
+        {
+            "name": "Bikki-kun",
+            "japanese": "",
+            "mascot": "",
+            "prefecture": "Tokyo",
+            "city": "Kyodo, Tokyo",
+            "description": "A penguin who is learning to swim.",
+            "official site": "",
+            "picture": "/bikki-kun"
+        },
+        {
+            "name": "Butsubutsu-kun",
+            "japanese": "",
+            "mascot": "Kujuku Islands Tourism",
+            "prefecture": "Nagasaki",
+            "city": "",
+            "description": "Two rocky islands with sandstone faces.  Retired due to concerns about offending those with skin problems.",
+            "official site": "",
+            "status": "Retired",
+            "picture": "/butsubutsu-kun"
+        },
+        {
+            "name": "Kumamushi-kun and Kumanyanko-chan",
+            "japanese": "",
+            "mascot": "Saitama Sewer System",
+            "prefecture": "Saitama",
+            "city": "Saitama",
+            "description": "Kumamushi-kun is a tardigrade and Kumanyanko-chan is a cross between a cat and a tardigrade.",
+            "official site": "",
+            "picture": "/kumamushi-kun"
+        },
+        {
+            "name": "Kotochan",
+            "japanese": "",
+            "mascot": "Kotoden-Kotohira Train Line",
+            "prefecture": "Kagawa",
+            "city": "Kotohira",
+            "description": "A dolphin often mistaken for a penguin.  He is the stationmaster for Kotoden-Kotohira station.  He is sometimes seen riding the Kotoden-Kotohira train line with his family.",
+            "official site": "",
+            "picture": "/kotochan"
+
+        },
+        {
+            "name": "Inzai-kun",
+            "japanese": "いんザイ君",
+            "mascot": "Inzai City",
+            "prefecture": "Chiba",
+            "city": "Inzai",
+            "description": "A drowsy pink rhino.",
+            "official site": "http://www.city.inzai.lg.jp/category/8-0-0-0-0.html",
+            "picture": "/inzai-kun"
+        },
+        {
+            "name": "Namisuke and Nammy",
+            "japanese": "なみすけ・ナミー",
+            "mascot": "Suginami City",
+            "prefecture": "Tokyo",
+            "city": "Suginami, Tokyo",
+            "description": "Namisuke is a puppy sized dinosaur-like fairy with a forest on its back. Nammy is Namisuke's sister and also has a flower on her head.",
+            "official site": "https://www.city.suginami.tokyo.jp/suginamishoukai/shirumanabu/namisuke/1005179.html",
+            "picture": "/namisuke"
+        },
+        {
+            "name": "Hamurin",
+            "japanese": "はむりん",
+            "mascot": "Hamura City",
+            "prefecture": "Tokyo",
+            "city": "Hamura",
+            "description": "Hamurin loves the beauty of Hamura City.  Its head consists of a water drop decorated with a cherry blossom and a body representing the zelkova at Hamura Bridge.  His name badge is held in place by a tulip.",
+            "official site": "http://www.city.hamura.tokyo.jp/category/12-0-0-0-0.html",
+            "picture": "/hamurin"
+        },
+        {
+            "name": "Gurandy",
+            "japanese": "ぐらんでぃ",
+            "mascot": "Shikaoi City (Unapproved/Unofficial)",
+            "prefecture": "Hokkaido",
+            "city": "Shikaoi",
+            "description": "An eternal three year old deer from Shikaoi.",
+            "official site": "https://twitter.com/gurandy19980321",
+            "picture": "/gurandy"
+        },
+        {
+            "name": "Rini-kun & Rinimane",
+            "japanese": "リニー君＆りにまね",
+            "mascot": "Nara City Linear New Station Fan Club",
+            "prefecture": "Nara",
+            "city": "Nara",
+            "description": "Rini-kun is the new Chuo Shinkanesen and Rinimane is its sika deer sidekick from Nara City.  They both wish for a Chuo Shinkansen station in Nara.",
+            "official site": "http://www.city.nara.lg.jp/www/contents/1432530713456/index.html",
+            "picture": "/rini-kun"
+        },
+        {
+            "name": "Chutora",
+            "japanese": "ちゅとら",
+            "mascot": "Chubu University",
+            "prefecture": "Aichi",
+            "city": "Kasugai",
+            "description": "The tiger is the zodiac of President Kohei Miura (founder) and best represents the character of the University that has been developing at a remarkable pace.  Chutora loves peaches.",
+            "official site": "https://www3.chubu.ac.jp/chutora/",
+            "picture": "/chutora"
+        },
+        {
+            "name": "Radish Grandpa",
+            "japanese": "ダイコン爺さん",
+            "mascot": "Hakone Gora Tourism",
+            "prefecture": "Kanagawa",
+            "city": "Hakone Gora",
+            "description": "An old daikon radish born in a field in Ichikawa, Radish Grandpa loves Hakone Gora and hopes for a future that is kind to everyone.",
+            "official site": "https://twitter.com/daikonjiisan",
+            "picture": "/radish-grandpa"
+        },
+        {
+            "name": "MIX",
+            "japanese": "みっくす",
+            "mascot": "Matsue City",
+            "prefecture": "Shimane",
+            "city": "Matsue",
+            "description": "A boy hamster born in a mixed juice shop on Kyomise Matsue shopping street.",
+            "official site": "http://fresh-juice-smoothie.com/mix/",
+            "picture": "/mix"
+        },
+        {
+            "name": "Shinjuku Awawa the superhero soap bubble",
+            "japanese": "新宿あわわ",
+            "mascot": "Director of Hand Washing for the Shinjuku Ward Food Sanitation Association",
+            "prefecture": "Tokyo",
+            "city": "Shinjuku, Tokyo",
+            "description": "A superhero soap bubble meant to teach others about washing their hands properly.",
+            "official site": "http://www.shinjukuku-shokyo.net/",
+            "picture": "/shinjuku-awawa"
         }
     ]
