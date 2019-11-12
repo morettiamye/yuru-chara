@@ -1486,5 +1486,45 @@
             "description": "Often mistaken for a rabbit, Ka-min is a forest fairy with a heart shaped face similar to the land form of Kamikawa.",
             "official site": "https://www.kamikawa-navi.jp/kamin",
             "picture": "/ka-min"
+        },
+        {
+            "name": "Shirapen",
+            "japanese": "しらぺん",
+            "mascot": "Shirahama Town Chamber of Commerce Youth Chapter",
+            "prefecture": "Wakayama",
+            "city": "Shirahama",
+            "description": "A fairy penguin who lives in Shirahama.  Its face looks like Shirarahama Beach from the sky.",
+            "official site": "https://shirapen.com/shirapen/",
+            "picture": "/shirapen"
+        },
+        {
+            "name": "Natomin",
+            "japanese": "なとみん",
+            "mascot": "Naragakuen Tomigaoka Junior and Senior High School",
+            "prefecture": "Nara",
+            "city": "Nara",
+            "description": "A bird who looks over the children of Naragakuen Tomigoaka Junior and Senior High.",
+            "official site": "https://www.instagram.com/natomin1101/",
+            "picture": "/natomin"
+        },
+        {
+            "name": "Baoru-kun and Mirai-chan",
+            "japanese": "ばおるくんとみらいちゃん",
+            "mascot": "Gotocho Commerce and Industry Association",
+            "prefecture": "Aomori",
+            "city": "Gonohe-machi",
+            "description": "Childhood friends wearing 'Gonohe Baori', a craft from Gonohe.",
+            "official site": "http://www.shokokai.or.jp/02/0244210000/index.htm",
+            "picture": "/baoru-kun"
+        },
+        {
+            "name": "Tsubozamurai and Tsubonyan",
+            "japanese": "壺侍と壺にゃん",
+            "mascot": "Saga Tourism Federation",
+            "prefecture": "Saga",
+            "city": "Saga",
+            "description": "Tsubo climbed into a bowl and decided to stay, as did his nephew the cat Tsubonyan.",
+            "official site": "https://www.asobo-saga.jp/tsubo/",
+            "picture": "/tsubozamurai"
         }
     ]
