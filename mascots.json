@@ -1526,5 +1526,95 @@
             "description": "Tsubo climbed into a bowl and decided to stay, as did his nephew the cat Tsubonyan.",
             "official site": "https://www.asobo-saga.jp/tsubo/",
             "picture": "/tsubozamurai"
+        },
+        {
+            "name": "Kannachan",
+            "japanese": "かんなちゃん",
+            "mascot": "Nagano Prefecture Peace Ambassador",
+            "prefecture": "Nagano",
+            "city": "",
+            "description": "A flower that bloomed after the atomic bomb was dropped on Hiroshima.  Kannachan promotes peace.",
+            "official site": "https://cannaproject.wordpress.com/canna-chan/",
+            "picture": "/kannachan"
+        },
+        {
+            "name": "Kinchan Shouchan",
+            "japanese": "きんちゃん　しょうちゃん",
+            "mascot": "Kindai University Elementary School",
+            "prefecture": "Nara",
+            "city": "Nara",
+            "description": "Kinchan and Shouchan like to dance and make friends with elementary students.  They wear the school uniform of the school they are a mascot for.",
+            "official site": "http://www.fes-kinder.kindai.ac.jp/fes/",
+            "picture": "/kinchan-shouchan"
+        },
+        {
+            "name": "Zenkaikun",
+            "japanese": "禅海くん",
+            "mascot": "Nakatsu City Shimoge Chamber of Commerce",
+            "prefecture": "Oita",
+            "city": "Nakatsu",
+            "description": "A character inspired by Kazuhisa Zenkai, the model of the protagonist of Hiroshi Kikuchi's novel 'Beyond the Ongaku'. ",
+            "official site": "http://nakatsu-cci.org/",
+            "picture": "/zenkaikun"
+        },
+        {
+            "name": "Komakappa",
+            "japanese": "こまかっぱ",
+            "mascot": "Komagane City",
+            "prefecture": "Nagano",
+            "city": "Komagane",
+            "description": "A kappa born from the clean waters of the Japanese Alps.  His hat is in the shape of the central Japanese Alps.",
+            "official site": "https://www.city.komagane.nagano.jp/gyosei/sangyo_business_kanko/kanko/PRcharacterkomakappa/2058.html",
+            "picture": "/komakappa"
+        },
+        {
+            "name": "Caromi",
+            "japanese": "キャロミ",
+            "mascot": "Hiroshima Institute of Technology, Female Student Career Design Center",
+            "prefecture": "Hiroshima",
+            "city": "Saeki, Hiroshima",
+            "description": "Born in Miyake forest, Caromi is a female engineer who wears a carrot on her head.  She is also 3 carrots tall.  She works to recruit female engineers all across Japan to come study at HIT.",
+            "official site": "http://www.it-hiroshima.ac.jp/jcd/",
+            "picture": "/caromi"
+        },
+        {
+            "name": "Notty",
+            "japanese": "のっティ",
+            "mascot": "Nonoichi City",
+            "prefecture": "Ishikawa",
+            "city": "Nonoichi",
+            "description": "A mysterious kimono that lives in Nonoichi City. Although Notty is laid back, Notty is also a mischievous glutton.",
+            "official site": "https://www.city.nonoichi.lg.jp/site/notty/",
+            "picture": "/notty"
+        },
+        {
+            "name": "Sakaron",
+            "japanese": "さかろん",
+            "mascot": "Sakado City",
+            "prefecture": "Saitama",
+            "city": "Sakado",
+            "description": "It looks like a dog but is a self proclaimed cherry blossom fairy.  She lives in a secret room in Sakado City Hall.",
+            "official site": "https://www.city.sakado.lg.jp/site/sakaron/",
+            "picture": "/sakaron"
+        },
+        {
+            "name": "Kamirin",
+            "japanese": "かみりん",
+            "mascot": "Kamijima Town Chamber of Commerce and Industry",
+            "prefecture": "Ehime",
+            "city": "Kamijima",
+            "description": "Kamirin protects the gods who live in the sea in Kamijima.  She has a bit of seaweed and a cherry blossom as a hair ornament.",
+            "official site": "https://www.kamijima.or.jp/kamirin",
+            "picture": "/kamirin"
+        },
+        {
+            "name": "Nejiri Honnyo",
+            "japanese": "ねじり ほんにょ",
+            "mascot": "Kurihara PR",
+            "prefecture": "Miyagi",
+            "city": "Kurihara",
+            "description": "A sentient stack of harvested rice.  He loves to be in the sun.",
+            "official site": "https://www.kurihara-kb.net/publics/index/303/",
+            "picture":"/nejiri-honnyo"
         }
     ]
