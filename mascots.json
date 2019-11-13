@@ -1616,5 +1616,65 @@
             "description": "A sentient stack of harvested rice.  He loves to be in the sun.",
             "official site": "https://www.kurihara-kb.net/publics/index/303/",
             "picture":"/nejiri-honnyo"
+        },
+        {
+            "name": "Kawabe & Kawamin",
+            "japanese": "かわべえとかわみん",
+            "mascot": "Kawashima Town",
+            "prefecture": "Saitama",
+            "city": "Kawashima",
+            "description": "Kawabe is a gourmet grandfather who loves the rich nature of Kawashima Town and knows everything about the town, and his granddaughter Kawamin.",
+            "official site": "https://www.town.kawajima.saitama.jp/2227.htm",
+            "picture": "/kawabe-kawamin"
+        },
+        {
+            "name": "Iseki-kun & Yayoi-chan",
+            "japanese": "いせきくん・やよいちゃん",
+            "mascot": "Harima Town",
+            "prefecture": "Hyogo",
+            "city": "Harima",
+            "description": "An energetic brother and sister duo who live in the Onaka ruins from the Yayoi period.",
+            "official site": "https://www.town.harima.lg.jp/kikaku/chosejoho/gaiyo/profile/mascot.html",
+            "picture": "/isekikun-yayoichan"
+        },
+        {
+            "name": "Mebae-chan",
+            "japanese": "めばえちゃん",
+            "mascot": "National University Corporation Fukushima University",
+            "prefecture": "Fukushima",
+            "city": "Fukushima",
+            "description": "A fairy tree who lives deep in the forest of Fukushima Prefecture.",
+            "official site": "https://www.fukushima-u.ac.jp/mebaeweb/",
+            "picture": "/mebae-chan"
+        },
+        {
+            "name": "Saku-Lucky",
+            "japanese": "さくらっきー",
+            "mascot": "Ogawara-machi",
+            "prefecture": "Miyagi",
+            "city": "Ogawara",
+            "description": "The head is the 'cherry blossom' of the town flower, the face is the 'swan' of the town bird, and the body is the 'plum' of the town tree.",
+            "official site": "http://www.oogawara.com/",
+            "picture": "/saku-lucky"
+        },
+        {
+            "name": "Saba Kapppa",
+            "japanese": ":鯖カッパ",
+            "mascot": "Amagasaki Municipal Shizukuishi Elementary School",
+            "prefecture": "Niigata",
+            "city": "Kashiwazaki",
+            "description": "A kappa born from the thoughts of the school children.",
+            "official site": "http://kedu.kenet.ed.jp/sabaishi/",
+            "picture": "/saba-kappa"
+        },
+        {
+            "name": "Tomipan",
+            "japanese": "とみぱん",
+            "mascot": "Fukamachi",
+            "prefecture": "Gifu",
+            "city": "Fuka",
+            "description": "An ancient rice bun enlisted to represent Fukamachi, a 'just right' town.",
+            "official site": "https://www.tomipan.com/",
+            "picture": "/tomipan"
         }
     ]
