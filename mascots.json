@@ -41,7 +41,7 @@
 
         },
         {
-            "name": "Kiko-chan",
+            "name": "Kiko",
             "japanese": "キーコ",
             "mascot": "Kikonai City",
             "prefecture": "Hokkaido",
@@ -1676,5 +1676,86 @@
             "description": "An ancient rice bun enlisted to represent Fukamachi, a 'just right' town.",
             "official site": "https://www.tomipan.com/",
             "picture": "/tomipan"
+        },
+        {
+
+            "name": "Hanadamoutarou",
+            "japanese": "花田舞太郎",
+            "mascot": "Kitahiroshima Town",
+            "prefecture": "Hokkaido",
+            "city": "Kitahiroshima",
+            "description": "A decorative cattle from Kitahiroshima Town's UNESCO-registered intangible cultural heritage 'Gamo Hanada Ue'",
+            "official site": "http://www.kitahiro.jp/moutaro_top/",
+            "picture": "/hanadamotarou"
+        },
+        {
+            "name": "Omuran",
+            "japanese": "おむらんちゃん",
+            "mascot": "Omura City",
+            "prefecture": "Nagasaki",
+            "city": "Omura",
+            "description": "A cherry blossom fairy that loves to run.",
+            "official site": "https://www.city.omura.nagasaki.jp/kouhou/shise/koho/koho/omuranchan/profile.html",
+            "picture": "/omuran"
+        },
+        {
+            "name": "Happy Komachan",
+            "japanese": "ハッピーこまちゃん",
+            "mascot": "Yashio City",
+            "prefecture": "Saitama",
+            "city": "Yashio",
+            "description": "A komatsuma (Japanese mustard green) born in the Komatsu field in Yashio.",
+            "official site": "https://www.city.yashio.lg.jp/kids/komachanroom/kids-komachan.html",
+            "picture": "/happy-komachan"
+        },
+        {
+            "name": "Horuru",
+            "japanese": "ホロル",
+            "mascot": "Shirosato Town",
+            "prefecture": "Ibaraki",
+            "city": "Shirosato",
+            "description": "An owl who lives at the top of a castanopsis tree.",
+            "official site": "http://www.town.shirosato.lg.jp/page/page001642.html",
+            "picture": "/horuru"
+        },
+        {
+            "name": "Otakuki",
+            "japanese": "おたっきー",
+            "mascot": "Otaki Town",
+            "prefecture": "Chiba",
+            "city": "Otaki",
+            "description": "A warrior based on the motif of Tadakatsu Honda, the lord of the Otaki Castle.",
+            "official site": "http://www.town.otaki.chiba.jp/index.cfm/9,0,53,120,html",
+            "picture": "/otakuki"
+        },
+        {
+            "name": "Kamitan",
+            "japanese": "かみたん",
+            "mascot": "Kaminokawa City",
+            "prefecture": "Tochigi",
+            "city": "Kaminokawa",
+            "description": "The hat is the image of the town bird 'Shirasagi', and the body depicts the fruits of Kinugawa, Tagawa, and Egawa flowing through the town, 'Yugao', the flower of the town, and 'Kampyo', a special product.",
+            "official site": "https://www.town.kaminokawa.lg.jp/0184/info-0000000671-0.html",
+            "picture": "/kamitan"
+        },
+        {
+            "name": "Michikaze-kun",
+            "japanese": "道風くん",
+            "mascot": "Kasugai Town",
+            "prefecture": "Aichi",
+            "city": "Kasugai",
+            "description": "A good person who is said to have been born in the past.",
+            "official site": "https://www.city.kasugai.lg.jp/shisei/kasugai/shonomachi/index.html",
+            "picture": "/michikaze-kun"
+        },
+        {
+            "name": "Nyaganohara",
+            "japanese": "にゃがのはら",
+            "mascot": "Naganoharamachi",
+            "prefecture": "Gunma",
+            "city": "Naganohara",
+            "description": "A vibrant cat who loves the nature and culture of Naganohara Town.  She seems to be working at her own pace every day, wearing her favorite hat and loincloth.",
+            "official site": "http://www1.town.naganohara.gunma.jp/www/contents/1490934689269/index.html",
+            "picture": "/nyaganohar"
         }
     ]
