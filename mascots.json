@@ -1756,6 +1756,47 @@
             "city": "Naganohara",
             "description": "A vibrant cat who loves the nature and culture of Naganohara Town.  She seems to be working at her own pace every day, wearing her favorite hat and loincloth.",
             "official site": "http://www1.town.naganohara.gunma.jp/www/contents/1490934689269/index.html",
-            "picture": "/nyaganohar"
+            "picture": "/nyaganohara"
+        },
+        {
+            "name": "Sayarin",
+            "japanese": "さやりん",
+            "mascot": "Sayama City",
+            "prefecture": "Osaka",
+            "city": "Sayama",
+            "description": "A blend of the legend of Sagamiike Ryujin and the cherry blossoms surrounding Sayamaike.",
+            "official site": "http://www.city.osakasayama.osaka.jp/gyosei/shinogaiyo/purofuiru/1410223915245.html",
+            "picture": "/sayarin"
+        },
+        {
+            "name": "Kekyokichi",
+            "japanese": "ケキョきち",
+            "mascot": "Bokujuku Onsen Tourist Association",
+            "prefecture": "Iwate",
+            "city": "Shizukuishi",
+            "description": "An uguishu (Japanese bush warbler) that lives in Iwate prefecture.",
+            "official site": "https://ousyukuonsen.com/kekyokichi/",
+            "picture": "/kekyokichi"
+        },
+        {
+            "name": "Tomatine",
+            "japanese": "とまてぃーぬ",
+            "mascot": "Aichi Prefectural Tokai Commercial High School",
+            "prefecture": "Aichi",
+            "city": "Tokai",
+            "description": "A sentient tomato",
+            "official site": "https://tokai-ch.aichi-c.ed.jp/contents/banner/tomato/main.html",
+            "picture": "/tomatine"
+        },
+        {
+            "name": "Ozccho",
+            "japanese": "おずっちょ",
+            "mascot": "Motosumi Ozdori Shopping Street Promotion Association",
+            "prefecture": "Kanazawa",
+            "city": "Kawasaki",
+            "description": "A mother who works hard so that everyone can learn more about the shopping street.",
+            "official site": "",
+            "picture": "/ozccho"
+
         }
     ]
